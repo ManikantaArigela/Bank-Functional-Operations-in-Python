@@ -1,5 +1,3 @@
-# Bank-Functional-Operations-in-Python
-
 # Project Idea: Mini ATM Simulation
 # Problem Statement
 Build a Python program that simulates an ATM machine where a user can:
